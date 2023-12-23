@@ -8,7 +8,8 @@
   - 11월 20일 ~ 11월 26일 : 챕터 6,7,8
   - 11월 27일 ~ 12월 3일 : 챕터 9,10,11
   - 회고
-    - [1~2주차](https://github.com/cotgyu/DDD-Study/blob/main/retrospectives/1~2%EC%A3%BC%EC%B0%A8.md) 
+    - [1~2주차](https://github.com/cotgyu/DDD-Study/blob/main/retrospectives/1~2%EC%A3%BC%EC%B0%A8.md)
+    - [3~4주차](https://github.com/cotgyu/DDD-Study/blob/main/retrospectives/3~4%EC%A3%BC%EC%B0%A8.md)
 
 
 - 방법
